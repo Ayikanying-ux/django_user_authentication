@@ -1,0 +1,16 @@
+.layout{
+    width: 50%;
+    background-color: #000;
+    border-radius: 5px;
+    color: #fff;
+    padding: 50px 10px;
+    margin: auto;
+
+}
+.title_tag{
+    text-align: center;
+}
+form{
+    width: 80%;
+    margin: auto;
+}
